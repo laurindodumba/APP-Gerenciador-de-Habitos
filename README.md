@@ -7,6 +7,9 @@
 
 Ainda está nas etapas iniciais, necessita de mais algumas melhorias que pretendo incluir aos poucos. Como exemplo Incluir o tempo investidos em cada hábito durante a semana, mês e até ano assim pode se verificar a evolução durante o processo até tornar aquele hábito parte da rotina.
 
+![image](https://github.com/user-attachments/assets/9e95a670-9a37-448b-a24b-beaf712e5ab0)
+
+
 ## Proximos passos:
 - Incluir função para controlar o tempo de cada hábito.
 - Popular a página de detalhes sobre como transformar um novo hábitos na rotina diária, até tornar-se parte da vida.
